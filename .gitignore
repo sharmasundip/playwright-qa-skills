@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Auth state (contains live session tokens)
+tests/auth/storage-state.json
+tests/auth/*-storage-state.json
+
+# Environment variables
+.env
+.env.local
+
+# Playwright artifacts
+test-results/
+playwright-report/
+blob-report/
+
+# OS
+.DS_Store
+Thumbs.db

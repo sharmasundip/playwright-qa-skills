@@ -1,0 +1,63 @@
+{
+  "name": "playwright-qa-skills",
+  "version": "2.0.0",
+  "description": "A no-code QA solution: record a browser workflow and automatically produce a stable, production-ready Playwright test — with project setup, auth, review, refactoring, healing, and API blueprints.",
+  "author": "playwright-qa-skills contributors",
+  "license": "MIT",
+  "skillsDirectory": "../skills",
+  "skills": [
+    {
+      "name": "playwright-project-init",
+      "path": "../skills/playwright-project-init/SKILL.md",
+      "description": "Scaffold a complete Playwright test project — directory structure, config, dependencies, and CI pipeline in one command."
+    },
+    {
+      "name": "playwright-auth-setup",
+      "path": "../skills/playwright-auth-setup/SKILL.md",
+      "description": "Capture and configure authentication state via storageState so tests start already logged in."
+    },
+    {
+      "name": "playwright-qa-pipeline",
+      "path": "../skills/playwright-qa-pipeline/SKILL.md",
+      "description": "One-command pipeline: record a workflow, then automatically review, refine, heal, and optionally capture API blueprints."
+    },
+    {
+      "name": "playwright-recording-reviewer",
+      "path": "../skills/playwright-recording-reviewer/SKILL.md",
+      "description": "Score Playwright recordings against best practices and provide actionable feedback before refactoring."
+    },
+    {
+      "name": "playwright-test-refiner",
+      "path": "../skills/playwright-test-refiner/SKILL.md",
+      "description": "Refactor recorded Playwright tests into Page Object Model architecture with fixtures, type-safe interfaces, data factories, and cleanup hooks."
+    },
+    {
+      "name": "playwright-test-healer",
+      "path": "../skills/playwright-test-healer/SKILL.md",
+      "description": "Diagnose and repair failing Playwright tests using a 6-vector RCA matrix with a 3/3 stability gate and cross-browser verification."
+    },
+    {
+      "name": "playwright-har-recorder",
+      "path": "../skills/playwright-har-recorder/SKILL.md",
+      "description": "Capture, scrub, and parameterize Playwright network traffic into reusable, environment-agnostic API blueprints with optional mock replay."
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharmasundip/playwright-qa-skills"
+  },
+  "keywords": [
+    "playwright",
+    "testing",
+    "qa",
+    "automation",
+    "no-code",
+    "skills",
+    "claude-code",
+    "page-object-model",
+    "har",
+    "test-healing",
+    "auth",
+    "ci-cd"
+  ]
+}
