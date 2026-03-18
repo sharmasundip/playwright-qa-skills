@@ -1,0 +1,29 @@
+{
+  "name": "playwright-qa-skills",
+  "version": "1.0.0",
+  "description": "Record once. Get a stable, production-ready Playwright test automatically. A no-code QA solution powered by Claude Code skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "playwright",
+    "qa-automation",
+    "claude-ai",
+    "no-code",
+    "test-automation",
+    "self-healing-tests",
+    "page-object-model",
+    "typescript"
+  ],
+  "author": "playwright-qa-skills contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sharmasundip/playwright-qa-skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sharmasundip/playwright-qa-skills/issues"
+  },
+  "homepage": "https://github.com/sharmasundip/playwright-qa-skills#readme"
+}

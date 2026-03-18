@@ -1,8 +1,12 @@
 # playwright-qa-skills
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Playwright](https://img.shields.io/badge/Playwright-QA-blue.svg)](https://playwright.dev/)
+[![Claude Code](https://img.shields.io/badge/Powered%20by-Claude%20Code-purple.svg)](https://claude.ai/)
+
 > Record once. Get a stable, production-ready Playwright test automatically.
 
-A no-code QA solution powered by Claude Code skills. Record a browser workflow and let the pipeline handle everything else — project setup, authentication, quality review, refactoring into Page Object Models, healing flaky tests, and capturing API blueprints.
+A no-code QA automation solution powered by **Claude Code** skills. Record a browser workflow and let the pipeline handle everything else — project setup, authentication, quality review, refactoring into **Page Object Models**, healing flaky tests, and capturing API blueprints.
 
 **Built for QA teams who want production-grade Playwright tests without writing code.**
 
